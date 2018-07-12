@@ -14,5 +14,5 @@
                    ref="helloService"  />
 
     <bean id="helloService" class="com.ultra.HelloImpl"/>
-       <bean id="h2"/>
+       
 </beans>
