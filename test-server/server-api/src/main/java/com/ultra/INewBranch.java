@@ -7,5 +7,5 @@ package com.ultra;
  */
 public interface INewBranch {
     public void branch(String s);
-    
+    public void aaa();
 }
