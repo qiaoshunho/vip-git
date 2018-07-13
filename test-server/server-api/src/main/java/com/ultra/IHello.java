@@ -3,7 +3,7 @@ package com.ultra;
 /**
  * @description:
  * @Author: ZhaoJP
- * @Date: 2018/6/14 love programming
+ * @Date: 2018/6/14 zhaojunpeng love programming
  * modify
  */
 public interface IHello {
