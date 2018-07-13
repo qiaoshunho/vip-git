@@ -6,4 +6,5 @@ package com.ultra;
  * @Date: 2018/7/13
  */
 public interface INewBranch {
+    public void branch(String s);
 }
